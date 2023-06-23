@@ -5,8 +5,8 @@
 
 ##### NOW
 
-- ✨ Working at BitBaan as a Junior C++ Developer;
-- 👨‍🏫 Working at Acadamy Yasan as a Python Teacher;
+- ✨ Junior C++/Rust Developer;
+- 👨‍🏫 Python Teacher;
 - 👨‍🎓 I'm currently Computer engineering student 
 
 ##### BIO
