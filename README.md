@@ -7,7 +7,7 @@
 
 - ✨ Junior C++/Rust Developer;
 - 👨‍🏫 Python Teacher;
-- 👨‍🎓 I'm currently Computer engineering student 
+- 👨‍🎓 Computer engineering student 
 
 ##### BIO
 
