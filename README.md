@@ -6,7 +6,7 @@
 ##### NOW
 
 - ✨ Junior C++/Rust Developer;
-- 👨‍🏫 Python Teacher;
+- 👨‍🏫 Working at the Social and Cognitive Robotics Research Lab, Sharif University of Technology;
 - 👨‍🎓 Computer engineering student 
 
 ##### BIO
